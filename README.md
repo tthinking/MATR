@@ -1,2 +1,2 @@
 # MATR
-Coming soon.
+MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer.
