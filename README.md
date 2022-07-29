@@ -22,4 +22,4 @@ If this work is helpful to you, please cite it as:</p>
   doi={10.1109/TIP.2022.3193288}}
 </code></pre></div>
 
-If you have any question, please email to me ([weitang2021@whu.edu.cn](weitang2021@whu.edu.cn)).
+If you have any questions, please email to me ([weitang2021@whu.edu.cn](weitang2021@whu.edu.cn)).
