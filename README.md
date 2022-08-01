@@ -6,7 +6,6 @@ This is the official implementation of the MATR model proposed in the paper ([MA
 <ul dir="auto">
 <li>Python 3</li>
 <li>PyTorch 1.9.1</li>
-<li>Numpy</li>
 <li>tqdm</li>
 <li>glob</li>
 <li>pandas</li>
