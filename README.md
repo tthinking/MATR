@@ -32,4 +32,4 @@ If this work is helpful to you, please cite it as:</p>
   doi={10.1109/TIP.2022.3193288}}
 </code></pre></div>
 
-If you have any questions,  feel free to contact me ([weitang2021@whu.edu.cn](weitang2021@whu.edu.cn)).
+If you have any questions,  feel free to contact me (<a href="mailto:weitang2021@whu.edu.cn">weitang2021@whu.edu.cn</a>).
