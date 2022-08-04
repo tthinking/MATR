@@ -18,7 +18,7 @@ If this work is helpful to you, please cite it as:</p>
   journal={IEEE Transactions on Image Processing}, 
   title={MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer}, 
   year={2022},
-  volume={},
+  volume={31},
   number={},
   pages={1-16},
   doi={10.1109/TIP.2022.3193288}}"><pre class="notranslate"><code>@ARTICLE{Tang_2022_MATR,
@@ -26,7 +26,7 @@ If this work is helpful to you, please cite it as:</p>
   journal={IEEE Transactions on Image Processing}, 
   title={MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer}, 
   year={2022},
-  volume={},
+  volume={31},
   number={},
   pages={1-16},
   doi={10.1109/TIP.2022.3193288}}
