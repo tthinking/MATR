@@ -11,7 +11,7 @@ This is the official implementation of the MATR model proposed in the paper ([MA
 <li>pandas</li>
 </ul>
 
-# Tips
+# Tips:
 
 
 # Cite the paper
