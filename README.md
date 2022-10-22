@@ -13,7 +13,7 @@ This is the official implementation of the MATR model proposed in the paper ([MA
 
 # Tips:
 <strong>Dealing with RGB input:</strong>
-Refer to [MATR: Multimodal Medical Image Fusion via Multiscale Adaptive Transformer](https://ieeexplore.ieee.org/document/9844446)
+Refer to [DPCN-Fusion](https://ieeexplore.ieee.org/document/9844446)
 
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
