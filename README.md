@@ -13,7 +13,7 @@ This is the official implementation of the MATR model proposed in the paper ([MA
 
 # Tips:
 <strong>Dealing with RGB input:</strong>
-<li>Refer to [DPCN-Fusion]([https://ieeexplore.ieee.org/document/9844446](https://github.com/tthinking/DPCN-Fusion/blob/master/test.py))</li>
+<li>Refer to ([DPCN-Fusion]([https://ieeexplore.ieee.org/document/9844446](https://github.com/tthinking/DPCN-Fusion/blob/master/test.py)))</li>
 
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
