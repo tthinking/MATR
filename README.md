@@ -15,6 +15,9 @@ This is the official implementation of the MATR model proposed in the paper ([MA
 <strong>Dealing with RGB input:</strong>
 Refer to [DPCN-Fusion](https://github.com/tthinking/DPCN-Fusion/blob/master/test.py).
 
+<strong>Dataset is </strong> [here](http://www.med.harvard.edu/AANLIB/home.html)
+
+
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
 <div class="snippet-clipboard-content notranslate position-relative overflow-auto" data-snippet-clipboard-copy-content="@ARTICLE{Tang_2022_MATR,
