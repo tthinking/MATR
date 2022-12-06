@@ -20,6 +20,8 @@ Refer to [DPCN-Fusion](https://github.com/tthinking/DPCN-Fusion/blob/master/test
 
 <strong>Dataset is </strong> [here](http://www.med.harvard.edu/AANLIB/home.html).
 
+The code for <strong>evaluation metrics</strong> is [here](https://github.com/tthinking/MATR/tree/main/evaluation).
+
 
 # Cite the paper
 If this work is helpful to you, please cite it as:</p>
